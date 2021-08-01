@@ -1,5 +1,3 @@
-
-
 import time
 import pandas as pd
 import numpy  as np
@@ -18,8 +16,6 @@ def info():
     3- https://www.javatpoint.com/numpy-tutorial
     4- https://www.geeksforgeeks.org/
     5- https://www.programiz.com/
-
-
     """
     pass
 
